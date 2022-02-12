@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1644683070927,
-  "index": "https://github.com/chanonanan/demo-pwa/index.html",
+  "timestamp": 1644683405933,
+  "index": "https://chanonanan.github.io/demo-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/chanonanan/demo-pwa/favicon.ico",
-        "https://github.com/chanonanan/demo-pwa/index.html",
-        "https://github.com/chanonanan/demo-pwa/main.6dc38791fe22fbc6253e.js",
-        "https://github.com/chanonanan/demo-pwa/manifest.webmanifest",
-        "https://github.com/chanonanan/demo-pwa/polyfills.423085708c40b9097918.js",
-        "https://github.com/chanonanan/demo-pwa/runtime.4416ff0a2ed58af67c4b.js",
-        "https://github.com/chanonanan/demo-pwa/styles.31d6cfe0d16ae931b73c.css"
+        "https://chanonanan.github.io/demo-pwa/favicon.ico",
+        "https://chanonanan.github.io/demo-pwa/index.html",
+        "https://chanonanan.github.io/demo-pwa/main.6dc38791fe22fbc6253e.js",
+        "https://chanonanan.github.io/demo-pwa/manifest.webmanifest",
+        "https://chanonanan.github.io/demo-pwa/polyfills.423085708c40b9097918.js",
+        "https://chanonanan.github.io/demo-pwa/runtime.4416ff0a2ed58af67c4b.js",
+        "https://chanonanan.github.io/demo-pwa/styles.31d6cfe0d16ae931b73c.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/chanonanan/demo-pwa/assets/icons/icon-128x128.png",
-        "https://github.com/chanonanan/demo-pwa/assets/icons/icon-144x144.png",
-        "https://github.com/chanonanan/demo-pwa/assets/icons/icon-152x152.png",
-        "https://github.com/chanonanan/demo-pwa/assets/icons/icon-192x192.png",
-        "https://github.com/chanonanan/demo-pwa/assets/icons/icon-384x384.png",
-        "https://github.com/chanonanan/demo-pwa/assets/icons/icon-512x512.png",
-        "https://github.com/chanonanan/demo-pwa/assets/icons/icon-72x72.png",
-        "https://github.com/chanonanan/demo-pwa/assets/icons/icon-96x96.png"
+        "https://chanonanan.github.io/demo-pwa/assets/icons/icon-128x128.png",
+        "https://chanonanan.github.io/demo-pwa/assets/icons/icon-144x144.png",
+        "https://chanonanan.github.io/demo-pwa/assets/icons/icon-152x152.png",
+        "https://chanonanan.github.io/demo-pwa/assets/icons/icon-192x192.png",
+        "https://chanonanan.github.io/demo-pwa/assets/icons/icon-384x384.png",
+        "https://chanonanan.github.io/demo-pwa/assets/icons/icon-512x512.png",
+        "https://chanonanan.github.io/demo-pwa/assets/icons/icon-72x72.png",
+        "https://chanonanan.github.io/demo-pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://github.com/chanonanan/demo-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://github.com/chanonanan/demo-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://github.com/chanonanan/demo-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://github.com/chanonanan/demo-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://github.com/chanonanan/demo-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://github.com/chanonanan/demo-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://github.com/chanonanan/demo-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://github.com/chanonanan/demo-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://github.com/chanonanan/demo-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.com/chanonanan/demo-pwa/index.html": "8eda52b83b56e65833dad60714e9b69ff39460c8",
-    "https://github.com/chanonanan/demo-pwa/main.6dc38791fe22fbc6253e.js": "2179a1bbc831a0b096e1ecb3e054d3018fde0b0d",
-    "https://github.com/chanonanan/demo-pwa/manifest.webmanifest": "b00125fec6bd376ab6d6947f5b5d8341a5997381",
-    "https://github.com/chanonanan/demo-pwa/polyfills.423085708c40b9097918.js": "1c552a118526f7db197bc1967dc9ea9982716449",
-    "https://github.com/chanonanan/demo-pwa/runtime.4416ff0a2ed58af67c4b.js": "3d1d8a39c66e8ad100ee70fe48993c85a9825c6e",
-    "https://github.com/chanonanan/demo-pwa/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://chanonanan.github.io/demo-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://chanonanan.github.io/demo-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://chanonanan.github.io/demo-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://chanonanan.github.io/demo-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://chanonanan.github.io/demo-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://chanonanan.github.io/demo-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://chanonanan.github.io/demo-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://chanonanan.github.io/demo-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://chanonanan.github.io/demo-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://chanonanan.github.io/demo-pwa/index.html": "96b7cd3d4b440d680b60f720342126876d0bf044",
+    "https://chanonanan.github.io/demo-pwa/main.6dc38791fe22fbc6253e.js": "2179a1bbc831a0b096e1ecb3e054d3018fde0b0d",
+    "https://chanonanan.github.io/demo-pwa/manifest.webmanifest": "b00125fec6bd376ab6d6947f5b5d8341a5997381",
+    "https://chanonanan.github.io/demo-pwa/polyfills.423085708c40b9097918.js": "1c552a118526f7db197bc1967dc9ea9982716449",
+    "https://chanonanan.github.io/demo-pwa/runtime.4416ff0a2ed58af67c4b.js": "3d1d8a39c66e8ad100ee70fe48993c85a9825c6e",
+    "https://chanonanan.github.io/demo-pwa/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
