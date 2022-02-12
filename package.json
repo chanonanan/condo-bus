@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "lint": "ng lint"
+    "lint": "ng lint",
+	"build:gh": "ng build --output-path docs --base-href https://chanonanan.github.io/demo-pwa/"
   },
   "private": true,
   "dependencies": {
