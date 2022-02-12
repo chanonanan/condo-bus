@@ -8,6 +8,7 @@ import { environment } from '../environments/environment';
 import { HomeComponent } from './pages/home/home.component';
 import { SecondComponent } from './pages/second/second.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
 	declarations: [
@@ -24,7 +25,8 @@ import { NavbarComponent } from './components/navbar/navbar.component';
     // Register the ServiceWorker as soon as the app is stable
     // or after 30 seconds (whichever comes first).
     registrationStrategy: 'registerWhenStable:30000'
-  })
+  }),
+  BrowserAnimationsModule
 	],
 	providers: [],
 	bootstrap: [AppComponent]
