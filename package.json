@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "build:gh": "ng build --output-path docs --base-href https://chanonanan.github.io/demo-pwa/"
+    "build:gh": "ng build --output-path docs --base-href https://chanonanan.github.io/demo-pwa/ && git add . && git commit -m \"Build\" && git push origin ghpage"
   },
   "private": true,
   "dependencies": {
