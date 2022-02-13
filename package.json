@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "build:gh": "ng build --output-path docs --base-href https://chanonanan.github.io/demo-pwa/"
+    "build:gh": "ng build --output-path docs --base-href https://chanonanan.github.io/demo-pwa/ && git add . && git commit -m \"Build\" && git push origin ghpage"
   },
   "private": true,
   "dependencies": {
@@ -23,6 +23,9 @@
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
     "@angular/service-worker": "~12.2.0",
+    "@ngxs/logger-plugin": "^3.7.3",
+    "@ngxs/store": "^3.7.3",
+    "animate.css": "^4.1.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"

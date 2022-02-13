@@ -1,0 +1,40 @@
+.container {
+
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+	flex-direction: column;
+	gap: 20px;
+	align-items: center;
+
+	.img-container {
+		z-index: -1;
+		border-radius: 50%;
+		overflow: hidden;
+		width: fit-content;
+		background-color: #fff;
+		box-shadow:  16px 16px 51px #e6e6e6,
+					-16px -16px 51px #ffffff;
+
+		img {
+			width: 100%;
+
+			&.no-ride {
+				filter: grayscale(100%);
+			}
+		}
+	}
+
+	mat-card {
+		align-self: center;
+		text-align: center;
+		border-radius: 26px;
+		background: #ffffff;
+		box-shadow:  16px 16px 51px #e6e6e6,
+					-16px -16px 51px #ffffff;
+
+		max-width: 500px;
+		min-width: 250px;
+
+	}
+}

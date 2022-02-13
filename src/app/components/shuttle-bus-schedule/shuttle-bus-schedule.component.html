@@ -1,0 +1,10 @@
+<div class="container">
+	<div class="img-container">
+		<img src="assets/bus.gif"
+			class="animate__animated animate__infinite animate__slower"
+			[ngClass]="aboutToRide ? 'animate__bounce' : ''"
+			[ngClass]="noMoreRide ? 'no-ride' : ''"
+		>
+	</div>
+	<mat-card>{{text}}</mat-card>
+</div>
